@@ -1,4 +1,8 @@
-# Alexander Sharp
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexanderSharp/hacker-radio/main/assets/logo-256.png" alt="Hacker Radio" width="128">
+</p>
+
+<h1 align="center">Alexander Sharp</h1>
 
 I build small tools for radio, signals and recon. Most of them exist because I
 wanted one job done without a window full of distractions.
